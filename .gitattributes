@@ -1,0 +1,4 @@
+ground[[:space:]]truth filter=lfs diff=lfs merge=lfs -text
+negative[[:space:]]image[[:space:]]set filter=lfs diff=lfs merge=lfs -text
+positive[[:space:]]image[[:space:]]set filter=lfs diff=lfs merge=lfs -text
+readme.txt filter=lfs diff=lfs merge=lfs -text
